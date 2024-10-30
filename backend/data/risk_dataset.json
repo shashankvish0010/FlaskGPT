@@ -1,0 +1,3066 @@
+[
+    {
+        "risk": "Meter calibration errors or failures can result in incorrect billing, leading to disputes with customers and potential financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Inaccurate meter calibration may cause billing discrepancies, resulting in customer dissatisfaction and financial setbacks.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Meter malfunctions or miscalibration could lead to incorrect billing, sparking conflicts with customers and monetary losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Errors in meter calibration can result in inaccurate invoicing, which could escalate into customer disputes and financial shortfalls.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Faulty meter readings due to calibration issues may cause billing inaccuracies, leading to financial losses and operational problems.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Incorrect meter calibration might result in overbilling or underbilling, causing customer complaints and revenue reduction.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Calibration faults in meters could trigger incorrect billing processes, leading to financial disputes and loss of revenue.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "A malfunctioning meter due to calibration errors may lead to improper billing, resulting in disputes and lost income.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Errors in metering systems caused by calibration issues can result in financial losses due to inaccurate billing and customer disputes.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Inaccurate calibration of meters can cause billing mistakes, leading to customer grievances and potential financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Weaknesses in the metering system's security can lead to cyberattacks, causing data breaches and financial harm.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "System vulnerabilities could allow hackers to access sensitive data, resulting in financial losses and operational challenges.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "A lack of cybersecurity measures may expose metering systems to data breaches, leading to operational and financial damage.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Cyberattacks exploiting vulnerabilities in the metering system could lead to significant data loss and monetary consequences.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Poor cybersecurity defenses may leave metering systems vulnerable to attacks, causing data breaches and business disruptions.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Flaws in the metering system's security may enable unauthorized access to sensitive data, leading to financial penalties and operational downtime.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Vulnerabilities in the metering system could result in cyber breaches, triggering both financial losses and severe operational impact.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Cyber weaknesses in the metering system could lead to the exposure of sensitive data, causing significant business and financial disruption.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Inadequate security measures may result in cyberattacks targeting metering systems, leading to financial losses and data theft.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Cyber exploits of metering system vulnerabilities could result in data breaches, financial penalties, and business interruptions.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with regulatory updates may result in fines, legal penalties, and restrictions on operations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to keep up with changing regulations could trigger fines and operational limitations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not adhering to updated regulations may lead to significant penalties and potential operational halts.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Regulatory non-compliance could result in substantial fines, legal action, and restrictions on business operations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to comply with evolving regulations can cause hefty fines, legal liabilities, and constraints on operations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with regulatory changes could incur penalties and impose restrictions on operational capacity.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to adapt to regulatory requirements may result in penalties, including fines and business operational limits.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Inability to meet regulatory standards may lead to fines, penalties, and possible interruptions in operations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Regulatory failures can result in punitive fines and restrictions on operational flexibility.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not adhering to regulatory requirements may cause financial penalties and disrupt normal business operations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to meet evolving regulatory requirements could lead to fines, penalties, and operational restrictions.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Calibration errors or meter malfunctions could lead to inaccurate billing, disputes with customers, and financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Vulnerabilities in the metering system could expose sensitive data to cyberattacks, resulting in data breaches, financial losses, and operational disruptions",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Environmental incidents such as gas leaks may lead to fines, harm the company's reputation, and pose health risks.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Gas leaks or similar environmental issues could cause fines, damage to brand reputation, and endanger public health.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Environmental hazards, like gas leaks, can result in fines, tarnish the company's reputation, and cause health risks.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Environmental accidents such as gas leaks may trigger financial penalties, damage reputation, and create health hazards.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Gas leaks and other environmental incidents could lead to serious fines, health risks, and loss of company credibility.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Environmental mishaps, including gas leaks, may lead to financial penalties, reputation damage, and health hazards.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Gas leaks or other environmental risks could result in regulatory fines, harm public health, and damage the company's standing.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to manage environmental issues like gas leaks may cause fines, harm reputation, and pose health threats.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Environmental incidents such as gas leaks may result in penalties, damage the brand image, and cause serious health concerns.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Uncontrolled gas leaks or environmental issues could bring about fines, reputation damage, and endanger public safety.Gas leaks or other environmental incidents could result in fines, damage to reputation, and potential health hazards",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure in third-party inspection may result in substandard products, leading to safety concerns and project delays.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If third-party inspections are not up to standard, defective products might be supplied, causing safety risks and delays.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Subpar third-party inspections could lead to faulty products being delivered, creating safety hazards and delaying the project.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Inadequate third-party inspections may result in poor quality products, endangering safety and causing project delays.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Third-party inspection failures can lead to substandard products, resulting in safety risks and delayed project timelines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If third-party inspections fail to meet standards, defective products could be supplied, leading to safety issues and project delays.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Defective products due to failed third-party inspections may cause safety hazards and push project completion dates back.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Inspection failures by third-party services can lead to the supply of faulty products, impacting safety and project schedules.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If third-party inspections are inadequate, subpar products may be delivered, causing safety concerns and delaying the project.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Third-party inspection lapses may result in poor product quality, leading to safety risks and project interruptions.If the third-party inspection does not meet quality assurance standards, it could lead to defective products being supplied, resulting in safety hazards and project delays.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to comply with PNGRB guidelines or legal obligations may result in hefty penalties, project closures, or legal action against BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-adherence to PNGRB regulations or other legal mandates could trigger fines, project shutdowns, and legal battles for BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If PNGRB guidelines or legal requirements are not followed, BPCL may face penalties, project stoppages, or lawsuits.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not complying with PNGRB regulations or legal rules could result in financial penalties, project halts, or legal consequences for BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Lack of compliance with PNGRB guidelines or laws could lead to severe fines, project delays, or lawsuits against BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with legal and PNGRB requirements could cause significant penalties, project suspension, and legal challenges for BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Violations of PNGRB regulations or legal requirements may result in penalties, project cancellations, and legal proceedings against BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to meet PNGRB guidelines or legal obligations could lead to fines, operational halts, and legal issues for BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with legal standards, including PNGRB guidelines, could result in project shutdowns, financial penalties, and legal actions against BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Ignoring PNGRB and legal regulations could lead to heavy fines, project discontinuation, and possible legal actions for BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with PNGRB guidelines or other legal requirements could lead to severe penalties, project shutdowns, or legal actions against BPCL.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Supply chain delays caused by geopolitical tensions or supplier bankruptcy could disrupt the project and result in major financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Geopolitical conflicts or supplier insolvency may cause material shortages, halting the project and leading to financial setbacks.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Delays in material supply due to supplier issues or global conflicts could bring the project to a standstill, incurring significant financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Geopolitical issues or supplier insolvency could lead to material shortages, stopping the project and causing financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Interruptions in the supply chain due to global instability or supplier failure could halt the project, resulting in financial damage.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Project delays from material supply disruptions caused by geopolitical issues or supplier insolvency may lead to substantial financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Global political unrest or supplier insolvency could delay material delivery, bringing the project to a halt and causing financial harm.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Material supply disruptions from geopolitical conflicts or supplier insolvency may halt the project and result in financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Geopolitical or supplier insolvency-related delays in material supply could result in halted projects and financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Project stoppages due to material supply issues from geopolitical factors or supplier insolvency may lead to major financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Delays in the supply of materials due to geopolitical issues or supplier insolvency could halt the project, leading to significant financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bidder collusion can manipulate competition, resulting in higher prices and lower quality of services or goods.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When bidders engage in collusion, it distorts the competitive process, leading to overpriced contracts and substandard quality.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusive practices among bidders can unfairly inflate prices and compromise the quality of deliverables.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion in the bidding process may result in inflated costs and diminished quality, disrupting fair competition.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bid rigging can skew competition, leading to excessive pricing and a drop in quality standards.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion between bidders can drive up prices and reduce the overall quality of goods or services provided.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When bidders conspire, it inflates costs and lowers the quality of products, undermining fair competition.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bid rigging distorts the competitive landscape, causing inflated prices and reduced quality in procurement.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion between bidding parties can result in artificially high prices and compromised quality.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion among bidders can distort competition, leading to inflated prices and reduced quality.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bidders who collude distort the market, leading to overpricing and subpar quality of goods or services.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Public officials may be bribed by contractors to inflate payments or block competition, causing a loss of public funds and poor-quality results.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bribery by contractors to public officials may lead to inflated payments, excluding competition and resulting in substandard quality and wasted public funds.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Contractor bribery may cause public officials to increase payments or exclude competitors, resulting in lower-quality outputs and financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bribing public officials to raise payments or remove competition can lead to poor quality and misuse of public resources.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Contractor bribery to inflate payments or exclude competitors can drain public funds and lead to compromised quality.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bribes from contractors may cause public officials to inflate costs and restrict competition, leading to poor-quality outcomes.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Corruption involving contractor bribes may inflate payments and block competitors, resulting in lower-quality results and wasted public funds.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When contractors bribe officials to increase payments or limit competition, it leads to financial losses and reduced quality.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bribes from contractors can cause public officials to increase payments, exclude competitors, and lead to substandard project outcomes.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Contractors may bribe public officials to increase payments or to exclude competitors, leading to a loss of public funds and lower-quality results.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Corruption and bribery by contractors result in inflated payments, reduced competition, and poorer quality of work.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Procurement officials may bypass rules to benefit certain bidders, leading to unfair competition and increased costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Circumventing procurement rules to favor certain bidders can cause unfair competition and inflate project expenses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Favoritism in procurement may lead to rule circumvention, unfair competition, and higher project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Procurement entities that favor specific bidders by bending rules may cause inflated costs and reduce competitive fairness.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "By favoring certain bidders, procurement entities may distort competition and increase project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Unfair competition and inflated project costs may arise if procurement rules are bent to favor specific bidders.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Procurement entities may bypass rules to favor particular bidders, causing unfair competition and inflated expenses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Favoring specific bidders by ignoring procurement rules can result in unfair competition and project cost overruns.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When procurement entities favor certain bidders, it leads to increased costs and undermines fair competition.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Procuring entities may circumvent public procurement rules to favor specific bidders, leading to unfair competition and inflated project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Favoritism in procurement can bypass rules, leading to unfair bidding practices and inflated project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Companies may conspire with public officials to block competitors, reducing competition and driving up project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion between firms and public officials can restrict competition, leading to increased costs and market distortions.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Public officials may collude with firms to restrict competitors' market access, which can reduce competition and cause cost overruns.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion with public officials may allow firms to limit competitor entry, reducing competition and inflating project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Firms colluding with public officials to block market entry for competitors may reduce competition and cause cost overruns.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Colluding with public officials, firms may limit market entry for competitors, resulting in reduced competition and higher costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Firms may work with public officials to restrict competitor access, leading to cost overruns and reduced competition.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion with public officials by firms may lead to market entry restrictions for competitors and increased project costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Public officials colluding with firms may limit competition, inflating costs and increasing the likelihood of project overruns.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Firms may collude with public officials to limit market entry for competitors, reducing competition and increasing the chances of cost overruns.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Collusion between firms and public officials could restrict competition, leading to inflated costs and market distortions.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Regular cost overruns in projects strain public budgets and delay project completion.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When project costs frequently exceed estimates, it puts pressure on public finances and delays project delivery.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Cost overruns that occur frequently can burden public budgets and slow down project completion.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Projects that consistently exceed their budget estimates strain public funds and disrupt timelines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Frequent cost overruns in projects create budgetary pressures and can cause delays in completion.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When project costs regularly exceed estimates, it strains public budgets and affects timely completion.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Cost overruns in projects often lead to public budget strain and extended project timelines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Frequent budget overruns in projects strain public finances and hinder on-time completion.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "When projects exceed their estimated costs, it burdens public budgets and delays final delivery.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Frequent occurrence of project cost exceeding initial estimates, which strains public budgets and affects the completion of projects.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Consistent cost overruns in projects lead to budget strain and can significantly affect project timelines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Corruption and fraud in the bidding process may cause financial losses and compromise project integrity.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Fraudulent activities and corruption in bidding can result in financial damage and weaken the integrity of the project.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Corruption and fraud during bidding can undermine project integrity and lead to considerable financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Fraud and corruption in the bidding phase can result in major financial setbacks and damage project integrity.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Corruption and fraud risks during bidding may cause significant financial losses and harm the project’s credibility.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Financial losses and compromised project integrity can result from corruption and fraud in the bidding process.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bidding process corruption and fraud can lead to major financial losses and affect project outcomes.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Fraud and corruption during bidding can cause serious financial losses and undermine the integrity of the project.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Corrupt and fraudulent practices in bidding may result in financial losses and damage to project integrity.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "The potential for corruption and fraudulent activities during the bidding process can lead to significant financial losses and undermine project integrity.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "The potential for fraud and corruption in the bidding process can lead to financial losses and weaken project integrity.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "The vendor's poor financial stability could affect their ability to deliver on the contract and offer continuous support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Financial instability in the vendor may hinder their capacity to complete the contract and provide necessary support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If the vendor faces financial challenges, it may impact their ability to fulfill contractual obligations and ongoing support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Vendor financial troubles could compromise their ability to meet contract requirements and offer long-term support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A vendor with unstable finances may struggle to deliver on the contract and maintain post-contract support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The vendor’s financial health could directly affect their ability to meet the contract’s terms and offer future support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Financial difficulties experienced by the vendor may limit their ability to execute the contract and sustain support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Vendor financial instability could lead to delays in fulfilling the contract and affect their ability to provide ongoing services.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A vendor facing financial instability might be unable to complete the contract and deliver required long-term support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The vendor's financial health could impact their ability to fulfill the contract and provide ongoing support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The vendor’s weak financial situation could hinder their ability to successfully complete the contract and continue support.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Difficult environments, such as remote areas or severe weather conditions, may increase installation and maintenance costs and risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Installing and maintaining meters in challenging locations could result in higher costs and greater risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Remote locations and harsh weather conditions could complicate meter installation and maintenance, raising costs and risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Challenges posed by remote or harsh environments may increase the risks and costs associated with meter installation and upkeep.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Difficult-to-reach locations and extreme weather could elevate both the costs and risks of installing and maintaining meters.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Remote or weather-challenged sites may increase costs and operational risks during meter installation and maintenance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Installing meters in remote or harsh environments may result in additional costs and heightened risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Challenging environmental conditions could increase the complexity, costs, and risks of meter installation and servicing.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Maintenance and installation in extreme conditions may increase expenses and risks related to meter operations.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Installation and maintenance of meters in challenging environments (e.g., remote locations, harsh weather conditions) could increase costs and risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Harsh weather or remote site conditions may raise both financial and operational risks during meter installation and maintenance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Metering technology could become obsolete, necessitating expensive upgrades or replacements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Outdated metering technology may require costly updates or replacements over time.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "As technology evolves, metering systems may become obsolete, leading to expensive upgrades or replacements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Aging metering technology could need expensive updates to stay relevant and functional.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Technological advancements may render existing metering systems obsolete, requiring costly replacements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The metering systems may become outdated, demanding costly upgrades or replacements to remain efficient.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Metering technology could fall behind, prompting the need for expensive upgrades or full system replacements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The risk of technological obsolescence may lead to increased costs for upgrading or replacing metering systems.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "As the technology ages, costly updates or replacements may be needed to maintain metering systems' efficiency.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The metering technology may become outdated over time, requiring costly upgrades or replacements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Metering systems may become outdated, requiring expensive upgrades or new installations to keep pace with advancements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Product defects found under warranty may result in costly replacements and time delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Warranty claims due to product defects could require replacements, leading to added costs and project delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Defective products identified during the warranty period may increase costs and cause delays in replacements.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Warranty-period defects may require replacements, which could lead to higher expenses and time setbacks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If defects arise during the warranty period, replacement costs and time delays may increase.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Product defects covered under warranty may necessitate replacements, leading to additional costs and time losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Warranty claims for defective products could cause replacement delays and higher costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Defective items identified during the warranty period may lead to increased replacement costs and project delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Warranty claims for defects may trigger replacement needs, increasing both costs and time to completion.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Defects found during the warranty period may require replacements that could lead to increased costs and time delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Defects during the warranty period could require costly replacements and delays in project timelines.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Non-compliance with the vendor’s QAP could result in poor-quality products and affect the project’s overall standards.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to follow the QAP might lead to substandard products, reducing the overall quality of the project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If vendors do not comply with the QAP, subpar products could be delivered, impacting the quality of the project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not adhering to the QAP may result in lower-quality products, which could negatively affect the project’s success.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to follow the vendor’s QAP could lead to the delivery of inferior products and compromise the project’s quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Non-compliance with the QAP may result in the delivery of low-quality products, affecting project outcomes.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Ignoring the QAP could lead to substandard product delivery and reduce the overall quality of the project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to meet QAP standards could result in subpar products, which could lower the overall project quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Vendors not adhering to the QAP might supply inferior products, impacting the quality of the final project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to adhere to the QAP submitted by vendors could result in substandard products being delivered, affecting overall project quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to comply with the QAP may lead to the delivery of substandard goods, jeopardizing project quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays beyond the 45-day delivery period may result in penalties, affecting the project’s budget and timelines.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If deliveries are delayed past 45 days, penalties may be incurred, potentially impacting the project’s cost and schedule.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Any delays beyond the 45-day delivery window could lead to financial penalties and disrupt the project timeline.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays exceeding the 45-day delivery period may incur penalties, impacting both the budget and schedule.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missing the 45-day delivery deadline could result in penalties and affect the project’s timeline and budget.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Late deliveries beyond 45 days may incur financial penalties and disrupt the project's budget and schedule.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delivery delays past 45 days could lead to penalties, which may affect the project’s cost and completion date.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Exceeding the 45-day delivery period could result in penalties that impact both budget and project timelines.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to meet the 45-day delivery timeline may incur penalties, affecting both the project's budget and schedule.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The 45-day delivery period is critical; any delays could incur penalties (0.5% per week up to 5% of contract value), impacting budget and timelines.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in delivery beyond 45 days could lead to penalties, disrupting the project’s financial and scheduling plans.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political ties may result in favoritism during contract awards, compromising the fairness of procurement.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political influence could lead to unfair advantages in contract awards, undermining the procurement process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Favoritism driven by political connections may affect fairness in the awarding of contracts.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political involvement in the procurement process could result in favoritism, skewing contract awards.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Favoritism caused by political influence could disrupt fairness in the procurement process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political connections may result in biased contract awards, affecting the integrity of procurement practices.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political ties may lead to favoritism in contract selection, which could compromise fairness.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political interference could lead to unfair contract awards, impacting the transparency of procurement.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Favoritism influenced by political connections could undermine fairness in the contract award process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political connections can lead to favoritism in awarding contracts, affecting fairness in the procurement process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Political influence may result in biased contract awarding, distorting the fairness of procurement.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Fluctuations in material prices may impact budget estimates and project costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Market price changes could disrupt budget forecasts and lead to increased project expenses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Variations in material costs may affect overall project budgets and financial planning.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Market price fluctuations could lead to budgetary adjustments and increased project costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Unpredictable market changes in material prices may alter budget forecasts and raise project costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Shifts in material prices can affect budget estimates and project costs over time.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Changes in the cost of materials may influence budget forecasts and overall project expenses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Rising material prices may impact budget projections and result in higher project costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Market fluctuations in material costs could lead to unexpected increases in project expenses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Changes in market prices for materials could affect budget forecasts and overall project costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Changes in the market value of materials may disrupt budget planning and raise project costs.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Technological failures during integration may result in operational inefficiencies and project delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Problems with new technology integration, such as RFID tags, may lead to inefficiencies in operations.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Integration of new technologies could cause system failures, resulting in operational inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Operational inefficiencies may arise due to integration issues with new technologies like RFID tags.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Technology integration challenges, such as RFID tag failures, may lead to inefficiencies in operations.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Problems with integrating new technologies could disrupt operations and lead to inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failures in new technology, such as RFID tags, may cause operational inefficiencies and slowdowns.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Issues with integrating new technologies could create operational inefficiencies and affect project timelines.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Technological integration problems, like with RFID tags, could result in inefficiencies in daily operations.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Issues arising from the integration of new technologies (e.g., RFID tags) could lead to operational inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Integration failures of new technology could lead to operational inefficiencies and reduced productivity.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Lack of transparency in making procurement documents publicly available can hide misconduct and lead to unjust decisions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Insufficient transparency in the publication of procurement documents may conceal unethical practices and result in biased decisions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to transparently make procurement documents available can obscure misconduct and lead to unfair outcomes.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Transparency issues in making procurement documents public may allow misconduct to go unnoticed, leading to unjust decisions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "When procurement documents are not transparently published, it may hide wrongdoing and result in inequitable decisions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A lack of public access to procurement documents can mask misconduct, ultimately leading to unjust outcomes.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not making procurement documents publicly available can obscure unethical conduct and create unjust procurement outcomes.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Transparency failures in procurement documentation may lead to hidden misconduct and unfair outcomes.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to provide public access to procurement documents can lead to hidden misconduct and unjust decision-making.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inadequate transparency in sharing procurement documents can result in concealed misconduct and lead to unfair decisions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Over-reliance on non-competitive methods reduces market participation, leading to higher prices and lower quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Frequent use of non-competitive procurement practices may limit market competition, resulting in inflated prices and poor quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Excessive dependence on non-competitive methods can reduce market engagement, leading to higher costs and subpar quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "When procuring entities rely too heavily on non-competitive methods, it can stifle market participation and raise prices.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Reliance on non-competitive procurement practices may inflate costs and diminish the quality of provided goods or services.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Using non-competitive methods excessively can limit competition and lead to inflated prices and reduced product quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Overusing non-competitive procurement methods may hinder market participation, resulting in higher costs and lesser quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Reliance on non-competitive approaches can limit market opportunities and inflate prices while decreasing quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Dependence on non-competitive procurement methods can limit market competition, driving up costs and reducing quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The inability to verify quality post-contract can lead to subpar project execution, as contractors may underdeliver after securing contracts.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Challenges in post-contract quality verification may result in contractors delivering inferior work, impacting project execution.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If quality cannot be confirmed after the contract is signed, it could lead to poor execution and contractor underperformance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inability to verify quality after contract execution can result in contractors underdelivering and affecting project quality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to verify quality after awarding contracts may allow for subpar execution by contractors, compromising the project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Without quality verification post-contract, project outcomes may suffer due to contractors not meeting expectations.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not verifying quality after the contract may result in contractors delivering unsatisfactory work and project shortcomings.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Challenges in confirming quality post-contract can lead to contractor non-compliance, resulting in poor project execution.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inability to ensure quality verification after contracts may result in unsatisfactory project execution and contractor failures.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inadequate quality control measures can result in substandard work being accepted, impacting long-term infrastructure performance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Poor quality assurance practices can lead to the acceptance of low-quality work, negatively affecting long-term infrastructure.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Insufficient quality control measures may allow substandard work to pass, compromising infrastructure performance over time.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Lack of effective quality control may lead to acceptance of inferior work, adversely affecting long-term project viability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to enforce adequate quality assurance can result in poor work being accepted, impacting project durability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Mistakes during bid evaluation can prompt complaints from bidders, requiring reevaluation and causing delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Errors in the bid evaluation process may lead to complaints, necessitating reevaluation and project delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Mistakes made during bid assessment can result in bidder complaints, leading to delays as reevaluations are conducted.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inaccuracies in bid evaluations may prompt complaints from bidders, causing delays due to necessary reevaluations.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Errors in evaluating bids could lead to disputes from bidders, requiring reevaluation and potential delays in the project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Evaluation mistakes can provoke complaints from bidders, leading to delays while the bids are reassessed.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missteps during the bid evaluation phase may trigger complaints, necessitating reevaluation and causing timeline disruptions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Errors in evaluating bids could lead to bidder disputes, requiring reevaluation and potential delays in the project.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inaccuracies during bid evaluations may result in complaints, prompting delays while reevaluating submissions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Limited capacity within the public sector can hinder effective procurement practices, leading to inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Capacity constraints in the public sector may affect procurement effectiveness, resulting in inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Insufficient capacity in the public sector can undermine effective procurement, leading to operational inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Public sector capacity limitations may hinder efficient procurement practices, causing operational delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Capacity issues within the public sector could obstruct effective procurement, resulting in inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Limited public sector capacity can impede effective procurement processes, leading to increased inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inadequate capacity in the public sector may restrict effective procurement, causing delays and inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Public sector capacity constraints may lead to procurement inefficiencies and impact project timelines.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Limited capacity in the public sector can restrict effective procurement practices, causing inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Public sector limitations in capacity may obstruct effective procurement processes, resulting in inefficiencies.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A lack of transparency during the bid evaluation phase can lead to disputes or perceptions of favoritism, even if unintentional.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Transparency issues during the bid evaluation process may create disputes or perceptions of bias, intentionally or not.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A non-transparent bid evaluation process can result in disputes or lead to perceptions of favoritism among stakeholders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The absence of transparency in bid evaluations can generate disputes and evoke feelings of favoritism among participants.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Lack of transparency in the evaluation phase may foster misunderstandings and perceptions of favoritism, regardless of intent.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Disputes may arise from a lack of transparency in the bid evaluation process, leading to perceived favoritism among bidders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Insufficient transparency during bid evaluations can result in disputes or perceptions of bias, even unintentionally.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A lack of clarity in the bid evaluation phase may lead to misunderstandings and perceptions of unfair treatment among bidders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to maintain transparency during the evaluation process can foster disputes and perceptions of favoritism among stakeholders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Limited transparency in the bid evaluation phase can create disputes and perceptions of favoritism, even if unintentional.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missing or incomplete documents in the procurement process can result in non-compliant bids or delays in awarding contracts.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Incomplete or missing documentation during procurement can lead to non-compliance and delay contract awards.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A lack of proper documentation in the procurement process may result in bids being deemed non-compliant, causing delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to provide all required documents may lead to bid disqualification or delays in the procurement process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inadequate documentation can cause non-compliance issues, delaying the awarding of contracts in procurement.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missing documentation during procurement can lead to non-compliant bids and impede the contract award process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to furnish required documents may result in bid rejection or delays in the procurement process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Incomplete procurement documentation can cause delays and result in bids being rejected for non-compliance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Insufficient documentation may lead to bid rejections or delays in awarding contracts in the procurement process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Poor documentation management can result in missing information that may cause non-compliant bids or delays in awarding contracts.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Poorly defined clarifications can lead to misunderstanding between bidders and the procurement agency, which might affect the bid’s validity.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inadequate clarifications may cause confusion between bidders and procurement officials, impacting the validity of bids.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Ambiguous clarifications can result in misunderstandings between bidders and the procurement agency, affecting bid legitimacy.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Vague clarifications may lead to confusion among bidders and procurement officials, potentially jeopardizing bid validity.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Unclear bid clarifications can result in misunderstandings between bidders and the procurement agency, affecting bid acceptance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to provide clear clarifications can cause confusion between bidders and procurement, impacting bid validity.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Poorly articulated clarifications may result in bidder misunderstandings and affect the acceptance of their bids.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Misunderstandings arising from unclear clarifications could jeopardize the validity of the bids submitted.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Ambiguous or poorly defined clarifications can create confusion that may impact bid legitimacy and acceptance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to provide adequate clarifications can lead to misunderstandings, jeopardizing bid acceptance.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bidders must be fully aware of the statutory obligations and regulatory requirements for transferring property and construction after purchase. Any failure to comply could result in project delays or legal action.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bidders need to understand all legal obligations and regulatory requirements; non-compliance may lead to delays or legal issues.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Awareness of statutory obligations is essential; failing to comply could cause project delays and potential legal actions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not being fully aware of regulatory requirements can lead to project delays or legal challenges for bidders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bidders must familiarize themselves with legal obligations; failure to comply could result in significant delays and legal repercussions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Understanding statutory obligations is crucial; non-compliance could lead to delays and legal complications.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bidders must be knowledgeable of all regulatory requirements; non-compliance may lead to project delays or lawsuits.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to adhere to legal requirements may result in project delays and potential legal repercussions for bidders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bidders must comply with statutory obligations; any failure could cause delays in project execution or legal actions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Non-compliance with regulatory requirements may delay projects and expose bidders to legal risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays or failure in executing the sale deed could result in a failure to transfer ownership, impacting the bidder's ability to take possession or develop the property.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If the sale deed is not executed in time, it could prevent ownership transfer, affecting the bidder's possession and development plans.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to execute the sale deed promptly may hinder ownership transfer, impacting the bidder's ability to develop the property.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in executing the sale deed could prevent ownership transfer, affecting the bidder's possession and development options.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to timely execute the sale deed may hinder the transfer of ownership, impacting the bidder's project development.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays or failure in the sale deed execution may prevent ownership transfer, impacting the bidder's project execution.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If the sale deed is not executed on time, it could prevent ownership transfer, affecting the bidder's ability to proceed with development.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to execute the sale deed can lead to ownership transfer issues, hindering the bidder's ability to develop the property.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in sale deed execution could lead to ownership transfer problems, affecting the bidder's development capabilities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to execute the sale deed in a timely manner may result in ownership transfer issues, impacting project development.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The responsibility for securing utilities such as water, power, and sanitation rests with the buyer. If these are not arranged on time, it could affect the usability of the property.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Buyers are responsible for securing utilities; delays in arranging them could hinder property usability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to secure essential utilities may impact the property's usability and functionality.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Buyers must arrange utilities like water and power; delays could negatively affect the property's usability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If buyers do not secure utilities on time, it could significantly affect the property's usability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "The onus of securing utilities lies with the buyer; any delays could affect the property's functional usability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to arrange necessary utilities could limit the usability of the property for buyers.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Buyers' responsibility to secure utilities means delays can impact the property's usability.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If utilities are not secured in time, it may affect the buyer's ability to utilize the property effectively.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to secure utilities in a timely manner may hinder the usability of the property for the buyer.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Minor disagreements or disputes with the vendor may arise but can likely be resolved through negotiation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small disputes with the vendor are likely to occur but can usually be settled through negotiation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor disputes with vendors may arise but are generally resolvable through discussion.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Occasional disagreements with vendors could emerge, but these are typically manageable through negotiation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor disputes may happen with vendors but are often resolved through effective negotiation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Disagreements with vendors can be minor and are generally resolved through discussion.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor contractual disagreements can arise but are likely to be settled amicably through negotiation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small disputes with vendors can often be resolved through mutual negotiation without significant issues.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor vendor disagreements are usually manageable through negotiation and do not escalate.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight disagreements with vendors may arise but can typically be resolved through negotiation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor changes in local regulations may occur but can typically be adapted to.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor updates to local regulations might arise, but they can usually be accommodated.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small adjustments in local regulations may happen, but organizations can typically adapt accordingly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight changes in local regulations could occur, but they are usually manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor regulatory changes may take place, but organizations can usually adjust without major issues.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Local regulations might change slightly, but they can often be easily accommodated.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small changes in regulations may occur but can typically be adapted with little impact.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor shifts in local regulations can happen, but they are generally easy to adapt to.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor errors in vendor drawings or documentation may cause rework but are unlikely to halt the project.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small inaccuracies in vendor documentation may require rework but usually do not stop progress.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor mistakes in vendor drawings may necessitate rework, but they are not likely to delay the project significantly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight errors in documentation from vendors might lead to rework but are unlikely to disrupt the project.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor documentation errors may require some adjustments but typically do not impede project timelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small errors in vendor drawings could necessitate rework but are generally manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor inaccuracies in vendor documentation may cause some rework, but project progress is typically unaffected.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small documentation errors from vendors might require corrections but are unlikely to halt the project.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight errors in vendor drawings may lead to adjustments but typically do not stop the project.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor inaccuracies in vendor documentation may need rework but are unlikely to cause significant delays.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in communication between BPCL and vendors regarding approvals may slow down processes but are manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication delays between BPCL and vendors may lead to slower processes, but they can be managed effectively.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If communication between BPCL and vendors is delayed, processes may slow down, but they remain manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in approvals between BPCL and vendors can slow down operations but are typically manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication issues may cause delays in vendor approvals, but they can generally be managed without major problems.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slower communication between BPCL and vendors regarding approvals may delay processes but are usually controllable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in communication about approvals with vendors may slow processes down, but they are typically manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication delays between BPCL and vendors may slow down decision-making but are usually manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor specification deviations may be acceptable if they do not affect safety or functionality significantly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight deviations from technical specifications may be permissible as long as safety and functionality are unaffected.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor deviations from specifications may be acceptable if they do not compromise safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight variations from technical specifications could be acceptable as long as they do not significantly impact safety.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor variations in specifications may be allowable if they do not adversely affect safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small deviations from technical specifications could be acceptable if they don’t compromise safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight deviations may be tolerated as long as they do not critically affect safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor specification changes may be acceptable if they do not negatively impact safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight deviations from specifications might be permissible if they do not significantly affect project safety or performance.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor technical deviations could be allowed if they do not critically compromise safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payment processing delays, while disruptive, are less frequent but can still affect contractor performance and project timelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in payment processing can disrupt contractor performance, although they are generally infrequent.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payment delays can affect contractor performance and project timelines, but they occur less frequently.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While not common, payment processing delays may disrupt contractor work and affect timelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Infrequent payment delays can still disrupt contractor activities and project schedules.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payment processing issues can disrupt workflows, though they are generally not frequent.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in payment processing, while occasional, can impact contractor efficiency and project timelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payment delays, though not common, can still influence contractor performance and overall project timelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While rare, payment processing delays can disrupt contractor work and affect project schedules.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payment processing delays may disrupt contractor efficiency and project timelines, but these delays are infrequent.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor, nonsubstantial errors in bids are usually rectified, but can occasionally lead to delays or disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small errors in bids can typically be corrected but may sometimes result in delays or bid disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor errors in bids are often fixable but can occasionally lead to delays or issues with disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Errors in bids that are minor may be corrected but can sometimes result in delays or rejection.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Nonsubstantial bid errors are usually resolved but may sometimes lead to delays or disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor errors in submitted bids can typically be fixed but may occasionally result in delays or disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small errors in bids are often rectified but can occasionally cause delays or lead to disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor errors in bids are generally correctable, but can sometimes result in delays or rejection.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight errors in bid submissions can usually be fixed but may occasionally result in delays or disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Nonsubstantial errors in bids may be resolved, but they can sometimes lead to delays or disqualification.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in communication between the Purchaser and bidders regarding clarifications may slow down processes but are generally manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication delays regarding clarifications between the Purchaser and bidders can slow processes but are usually manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slow communication between the Purchaser and bidders regarding clarifications may delay processes but is typically manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in obtaining clarifications between the Purchaser and bidders may slow processes but are often manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication delays with bidders about clarifications may slow down project processes but are usually manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in communication regarding clarifications may hinder processes, but they are generally manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication issues with bidders may lead to delays in clarification but are usually manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in clarifications between the Purchaser and bidders may slow processes but are typically controllable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Communication delays in clarifications with bidders may cause slowdowns but are generally manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in communication regarding clarifications with bidders may slow processes but are often manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight deviations from technical specifications may be acceptable if they do not affect safety or functionality significantly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor deviations from specifications might be tolerated if they do not critically impact safety or performance.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small variations from technical specifications may be permissible if they do not significantly affect safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight changes to specifications may be acceptable if they do not adversely impact safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor technical deviations could be allowed if they do not critically compromise safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight deviations from technical standards may be acceptable if they do not significantly compromise safety or performance.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small deviations in technical specifications may be tolerated as long as safety and functionality remain intact.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor variations from technical specifications may be permissible as long as they do not impact safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Slight deviations from technical specifications may be acceptable if safety and functionality are not significantly affected.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor discrepancies in specifications may be tolerable if they do not critically impact safety or functionality.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While inconvenient, late bid submissions are less frequent but still pose a risk of rejecting potentially good bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Occasional late submissions may occur, but they pose a risk of disqualifying potentially strong bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late submissions, though infrequent, could lead to the rejection of good bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While less common, submitting bids late can risk the rejection of otherwise good proposals.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late bid submissions, although rare, may still risk the rejection of potentially strong bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Although infrequent, late bid submissions can pose a risk of disqualifying potentially viable bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While not common, late bid submissions can lead to the rejection of good bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late submissions may occur, and while they are not frequent, they still pose a risk of rejecting good bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late submissions, while not often seen, carry the risk of rejecting promising bids.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While inconvenient, late submissions of bids can still risk the rejection of viable proposals.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Errors in withdrawal or substitution notices could affect the submission process but typically do not cause major issues if detected early.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Mistakes in withdrawal notices may impact the submission process but are usually minor if identified early.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Errors in substitution notices can complicate the submission process but typically do not lead to major problems if caught quickly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Withdrawal errors may affect the submission process but generally do not cause significant issues if noticed early.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Mistakes in withdrawal or substitution may hinder the submission process but are typically manageable if identified early.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Errors in submission withdrawal can impact the process but usually do not lead to significant complications if addressed promptly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor errors in withdrawal notices can affect submissions but typically do not cause major issues when detected quickly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Mistakes in substitution notices may complicate the submission process but usually do not have serious consequences if addressed promptly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Errors in withdrawal notices can affect submissions but are often minor issues if detected early.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Mistakes in withdrawal or substitution could complicate the submission process but are generally not major problems if addressed quickly.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Any delay in the receipt of tenders due to postal issues could result in the rejection of the bid, although this is typically a low-impact risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Postal delays in receiving tenders may lead to bid rejection, but this is generally considered a minor risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays caused by postal issues could result in bid rejection, but this is usually a low-impact concern.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While postal delays can lead to bid rejections, this risk is typically considered low-impact.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in tenders due to postal issues may cause bids to be rejected, but this is usually a minor risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While not frequent, postal delays can result in rejected bids, though this is generally a low-impact risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Postal issues may delay receipt of tenders, potentially leading to bid rejection, but this is typically a minor risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Any postal delays in receiving bids could result in rejection, though this is usually a low-impact concern.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While delays due to postal issues can lead to bid rejection, this risk is generally considered to have low impact.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Postal delays may cause bid rejections, but this is usually regarded as a low-impact risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the institute withdraws its offer after the submission of the tender, the bidders are not entitled to claim any compensation, but they will get their EMD back, making this a low risk for financial loss.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Should the institute withdraw its offer after tender submission, bidders won’t receive compensation but will get their EMD back, minimizing financial risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the offer is withdrawn by the institute post-tender submission, bidders will not be compensated but will recover their EMD, reducing financial loss risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "In the event the institute withdraws its offer after submissions, bidders will receive their EMD back, minimizing the risk of financial loss.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Bidders are not entitled to compensation if the institute withdraws its offer after submission, but they will get their EMD back, making it a low financial risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the institute withdraws the tender offer, bidders will get their EMD refunded, which reduces the risk of financial loss.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Withdrawal of the offer by the institute after tender submission will not lead to compensation, but EMD will be returned, limiting financial risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Bidders will not receive compensation if the institute withdraws its offer post-tender submission, though they will receive their EMD back, reducing financial risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the institute pulls its offer after tender submissions, bidders won't get compensation but will receive their EMD, making it a low financial risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Should the institute withdraw its offer after the submission of tenders, bidders are not entitled to compensation but will receive their EMD back, minimizing financial loss.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to deliver on time can cause penalties, with a potential loss of 5% of the base price due to late shipments.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Problems with digital certificate authentication can result in bid rejection, but they are typically manageable with proper preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Transit risks, though insured, could lead to delivery delays if damage occurs during transport.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Bids that do not conform to technical specifications may be rejected, leading to financial risks and a tarnished reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failing to submit the security deposit on time risks forfeiting the tender and losing 5% of the order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Market variations that influence material costs can impact pricing strategies but can be managed through proper forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Vendors found submitting falsified documents risk blacklisting and exclusion from future tenders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Late deliveries result in penalties, affecting project schedules, with a 0.5% penalty per week, up to a 5% cap.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to follow all bid submission steps may result in disqualification, but the risk is reduced through proper adherence to guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Providing falsified documentation may result in blacklisting, affecting the vendor's future tender opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "A conflict of interest could result in bid rejection, impacting the vendor’s ability to secure future contracts.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Detection of false documents could lead to blacklisting and legal action, affecting future tender participation.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bid rejection due to digital certificate issues can occur, but with proper preparation, these problems are typically resolved.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Market volatility affecting material costs may alter pricing, though this can be managed through solid forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Vendors who fail to complete an accepted order may be excluded from tender participation until a specific date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Missed deliveries may lead to the buyer sourcing from other suppliers at the vendor’s expense.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If the vendor fails to provide a valid PBG, payments may be held up or the vendor disqualified.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to provide the security deposit on time could cause disqualification and the forfeiture of 5% of the total order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failures in the digital communication process during e-bidding may cause rejection, though these are generally fixable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Without a valid PBG, payments may be delayed, or the vendor could be disqualified from receiving them.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Small mistakes in documents may lead to delays but are manageable if corrected promptly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If inspection clearance is delayed, the dispatch of goods may be affected, leading to penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Minor documentation errors can result in delays, but prompt corrections typically resolve the issue.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Price deviations during the contract period may result in penalties, especially if they affect the final delivery cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Transit damage, covered by insurance, may result in minor delays if issues arise.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "EProcurement platform communication failures may lead to bid rejection, though they are typically resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If a conflict of interest is identified, the bid may be rejected, impacting long-term vendor opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Deviations in the price structure may result in penalties, especially if they alter the final cost at the delivery site.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Vendors may be disqualified from the tender if they fail to submit the required 5% security deposit within the stipulated time.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Shipping delays will result in penalties that accumulate weekly at 0.5%, capping at 5%, and hurt operational timelines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Operational disruptions from natural disasters are covered under force majeure clauses, mitigating the impact of such events.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Vendor delays in getting inspection clearance could lead to late dispatch and penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delivery beyond the agreed time incurs significant financial penalties, potentially derailing operational plans.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If fabrication or false documentation is found, the vendor risks blacklisting and legal consequences.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Price fluctuations due to market changes may affect material costs, but forecasting can help adjust strategies.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Material price shifts due to market fluctuations may impact pricing strategies, but they can be managed with good forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the vendor accepts but does not execute the order, they may be barred from future tenders for a set duration.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If the price structure is altered, penalties may be incurred, especially when affecting the final cost at delivery.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failures in the eProcurement system during bidding can cause rejection, though these issues are typically resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failures in digital communication during e-bidding can result in bid rejection, though they are typically fixable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Inspection delays may cause late dispatch, potentially resulting in financial penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Any conflict of interest discovered could result in the bid being rejected, affecting future business prospects.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Blacklisting may occur if fabrication or false documents are detected, preventing future tender participation.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Authentication problems with digital certificates can cause bids to be rejected, but proper preparation can resolve these issues.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Force majeure clauses cover disruptions caused by natural disasters, offering protection against unforeseen operational issues.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Non-compliance with an accepted order can result in future tender suspension until a particular date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Risk Purchase Clause: If the vendor fails to deliver on time, Balmer Lawrie reserves the right to procure from alternate sources at the vendor's cost, which can lead to significant financial implications.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to obtain inspection clearance on time could delay dispatch and incur penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Operational disruptions due to natural disasters are usually covered by force majeure clauses, offering some protection.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delayed shipments can result in penalties that escalate up to 5% of the total order value, impacting operations.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to meet delivery schedules may allow the buyer to procure elsewhere, with the vendor responsible for any extra costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Mistakes in submitted documents may result in delays, though they are easily manageable with quick fixes.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If a conflict of interest is found, it may lead to the dismissal of the bid, hurting future opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Timely delivery is crucial; failure to deliver as scheduled can attract penalties of up to 5%, hindering operational goals.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If the vendor fails to deliver on time, Balmer Lawrie can procure elsewhere, with the extra expenses passed on to the vendor.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bids could be rejected if a conflict of interest is found, harming the vendor’s relationship with the buyer.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Transit Risk: Though covered by the supplier, any issues with insurance or damage in transit could cause minor delays​.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Legal or GST non-compliance may result in financial penalties or other monetary consequences.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Market shifts affecting material prices may influence pricing, though this can be controlled through accurate forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late inspection clearance could delay dispatch and result in penalties for the vendor.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to Deliver on Time: Delays in delivery can lead to significant penalties and affect operational timelines, as outlined in the LD clause, which imposes a penalty of 0.5% per week for delays, capped at 5% of the basic value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not meeting the security deposit requirements could disqualify the vendor from the tender process, risking 5% of the order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Vendors found providing false documentation risk being blacklisted and may face legal action.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "While natural disasters can halt operations, force majeure clauses usually offer protection against these risks.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Problems with digital communication during the e-bidding process may lead to rejection, but they are generally fixable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Vendor delays in obtaining inspection clearance may result in late dispatch and penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to complete all submission steps could cause bid disqualification, though this risk is mitigated by following the guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Vendor delays in inspection clearance may cause late dispatch and incur penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Penalties may apply if the accepted price structure is altered, especially when affecting the final cost at the delivery site.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Performance Bank Guarantee (PBG) Issues: Failure to provide a valid PBG as required can delay payments or result in disqualification from receiving payments.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Non-compliance with the required technical standards could lead to bid rejection and damage the company's credibility.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Digital certificate authentication issues may lead to bid rejection, though they are fixable with sufficient preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Blacklisting and legal action may follow if any falsified documentation is detected.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Inadequate technical compliance could cause the bid to be rejected, with financial and reputational consequences.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to submit a valid PBG may result in delayed payments or disqualification from receiving payments.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Vendor relationships and future opportunities could be compromised if a conflict of interest results in bid rejection.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Minor paperwork mistakes may result in delays but can be easily corrected if addressed promptly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Operational disruptions due to natural disasters are typically mitigated by force majeure clauses, providing some coverage.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "EProcurement platform issues during the bid process may result in rejection, though these can typically be resolved.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Penalties for delayed deliveries can be as high as 5% of the contract value, affecting the overall project flow.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Digital certificate issues may lead to bid rejection, but they are resolvable with proper planning and preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Disqualification may result from incomplete bids, but this risk is reduced by adhering to submission guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to follow all submission steps may cause bid disqualification, but adherence to guidelines reduces this risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Modifications to the accepted price structure could lead to penalties, particularly if they influence the final landed cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Insurance covers transit risks, but minor delays may occur if damage happens during shipping.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Non-execution of an accepted order can result in future tender suspension until a certain date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Problems with authenticating digital certificates can result in bid rejection, but they are typically resolvable with adequate preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failures in the eProcurement platform could cause bid rejection, though these issues are generally easy to resolve.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Bid rejection due to conflicts of interest could affect ongoing vendor relationships and future tenders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Modifications to the price structure during the contract may lead to financial penalties, particularly regarding the delivery cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Operations may be impacted by natural disasters, but force majeure clauses provide coverage for such disruptions.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Authentication issues with digital certificates may result in bid rejection, but they can usually be resolved with adequate preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payment disqualification or delays may occur if the required PBG is not provided.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Adjusting the price structure during the contract period may result in penalties, particularly concerning the final delivery cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not following GST regulations or other legal requirements may result in financial fines and losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missing the security deposit deadline can lead to disqualification from the tender and a 5% loss in order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Submitting fabricated documents could result in blacklisting and exclusion from future tenders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If a vendor pulls out of an accepted order, they risk suspension from future tenders until a specified time.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Disqualification could result from incomplete bid submissions, but following the submission guidelines largely mitigates this risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to comply with technical requirements could lead to bid rejection, affecting both finances and company reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Providing false documents could lead to blacklisting and legal action, hindering future tender participation.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Issues with digital certificate authentication may result in bid rejection, though they can be addressed with sufficient preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Vendors who do not execute accepted orders could face suspension from tenders for a certain time period.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to fulfill the technical requirements may result in bid dismissal, causing financial losses and reputational harm.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Fabrication or false documents may result in blacklisting, affecting future tender participation and legal consequences.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Communication issues during the e-bidding process may lead to bid rejection, but these problems are generally resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Transit risks, while insured by the supplier, may cause delays if damage occurs during shipping.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Force Majeure Events: While natural disasters can disrupt operations, they are generally covered under force majeure clauses, providing some protection against unforeseen circumstances.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Not meeting the outlined technical standards may cause the bid to be dismissed, resulting in financial and reputational loss.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Issues with digital certificates may lead to bid rejection, though they are typically fixable with the right preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Documentation mistakes may cause delays, but they are generally fixable if acted upon swiftly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to submit the required PBG can delay payments or cause the vendor to be disqualified from payment.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Disruptions caused by natural disasters are typically covered under force majeure clauses, offering protection for operations.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the delivery schedule is not adhered to, Balmer Lawrie reserves the right to source from others at the vendor's cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If the security deposit (5%) is not submitted in time, vendors risk being disqualified from the tender process.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not providing a valid PBG could lead to payment delays or disqualification from receiving payments.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Withdrawal from an accepted order risks future tender suspension for a predetermined period.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Conflicts of interest detected during the bid evaluation process could lead to rejection, affecting future business.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to meet technical specifications may result in bid rejection, causing potential financial losses and harming reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Communication Issues with eProcurement Platform: Any failure in digital communications during the e-bidding process (e.g., non-authentication of the digital certificate) could result in bid rejection, though this is generally resolvable​.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Technical non-compliance could result in the bid being rejected, with associated financial penalties and reputational damage.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Delays in security deposit submission may disqualify the vendor and result in the loss of 5% of the contract value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with legal or GST regulations can lead to fines and potential financial losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Minor errors in documentation could lead to delays but are manageable with timely corrections.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Authentication issues with digital certificates may cause bid rejection, but with sufficient preparation, they can be resolved.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If the vendor misses the delivery deadline, the buyer can source from elsewhere at the vendor's expense, incurring additional costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to adhere to GST or legal regulations may result in financial penalties or losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in delivery give Balmer Lawrie the right to source from other suppliers, with additional costs borne by the vendor.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with regulations may cause financial penalties and other financial consequences.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Disqualification may occur due to incomplete bid submissions, but the risk is mitigated by following submission guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Digital communication problems during bidding may lead to rejection, though they are usually resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "No changes to the accepted price are allowed, and deviations could lead to penalties if the final cost is impacted.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Delays in the delivery timeline could lead to penalties, with financial losses of up to 5% of the base price.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Not providing the security deposit within the timeframe may result in exclusion from the tender and a 5% penalty.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Delays give Balmer Lawrie the right to make alternative purchases, charging the vendor for any additional costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to execute an accepted order could result in exclusion from future tenders until a given date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Lack of compliance with technical specifications can lead to bid rejection, impacting finances and reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-adherence to technical standards may result in the bid being turned down, risking financial loss and reputational harm.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Without the proper PBG, payment may be delayed or the vendor may be disqualified from receiving payment.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Security Deposit Forfeiture: The requirement for a security deposit (5% of total order value) poses a risk if not managed correctly, as failure to submit this deposit on time can lead to disqualification from the tender.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bids failing to meet technical specifications may be dismissed, leading to monetary loss and damage to the vendor’s standing.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If false documentation is identified, the vendor could face blacklisting and legal consequences, affecting tenders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If a vendor withdraws from an accepted order, they may be suspended from future tenders for a set period.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Shifts in material costs caused by market changes may impact pricing strategies, but these are manageable with effective forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "An invalid PBG can delay payments or cause the vendor to be disqualified from receiving them.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not complying with GST regulations or legal requirements could cause financial losses and penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to comply with legal requirements, including GST, can lead to fines or financial losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "False documents may result in blacklisting and potential legal consequences, affecting tender opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Operational delays due to late delivery could cost the vendor up to 5% of the basic value in penalties.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Each week of delay will result in a 0.5% penalty, capped at 5%, impacting both finances and project deadlines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If the security deposit is not provided as required, vendors may face tender disqualification and lose 5% of the order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Any changes to the price structure during the contract could lead to penalties, especially if it influences the final cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Any identified conflict of interest may result in the disqualification of the bid, with future opportunities compromised.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Insurance covers transit risks, but any damage during shipping could lead to minor delays.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Regulatory Compliance Issues: Non-compliance with GST regulations or other legal requirements can incur penalties or financial losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Issues with damage in transit, though insured, could cause slight delays in delivery.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Natural disasters can disrupt operations, but force majeure clauses generally protect against such unforeseen events.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Any delay in delivery will incur a penalty of 0.5% per week, with a maximum of 5%, impacting the overall project timeline.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Missed deadlines can lead to Balmer Lawrie purchasing from other suppliers, with the vendor covering the additional costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to submit a valid PBG could lead to disqualification from payments or significant delays in payment.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Authentication issues with digital certificates may cause bid rejection, though they can usually be fixed with proper preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Authentication problems with digital certificates may lead to bid rejection, but they are usually fixable with the right preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Detected fabrication or false documentation may result in blacklisting and further legal action.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in product inspection may result in late dispatch and potential penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missed deadlines allow the buyer to make alternate purchases at the vendor’s expense, risking financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Fluctuations in market prices may impact material costs and pricing strategies, though forecasting can mitigate this.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Incomplete Bid Submission: Failure to complete all required steps for bid submission may result in disqualification; however, this risk is largely mitigated through adherence to submission guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small errors in the submitted paperwork may lead to delays but can be resolved if addressed quickly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bid rejection may occur due to digital certificate authentication issues, but they are generally resolvable with good preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delayed shipments may lead to Balmer Lawrie procuring from alternate vendors at the original vendor’s cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Issues with the eProcurement platform may result in bid rejection, though they can usually be resolved.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Digital Certificate Authentication Issues: Problems with digital certificate authentication may lead to bid rejection, but these issues are typically resolvable with proper preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Bid rejection can occur due to digital certificate authentication problems, though these issues can be resolved with adequate preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "While natural disasters can interrupt operations, force majeure clauses generally cover such disruptions, minimizing risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late submission of the security deposit may result in disqualification and the forfeiture of 5% of the contract value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Changes in the market impacting material costs may require adjustments to pricing strategies, but these are usually manageable with proper forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Not adhering to the technical guidelines may result in bid rejection, financial loss, and negative impact on reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-authentication issues during e-bidding may result in bid rejection, but these are generally resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Deviations from the agreed-upon price structure could result in penalties, particularly if they alter the final delivery cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "A conflict of interest may lead to the disqualification of the bid, damaging future opportunities with the buyer.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Non-compliance with Technical Specifications: Bids that do not meet the specified technical requirements may be rejected, leading to financial losses and reputational damage.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with GST or other legal obligations can incur penalties and financial repercussions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Errors in the submitted documents may delay progress but can be managed with timely actions.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Material cost fluctuations may impact pricing, but proper forecasting can help mitigate these effects.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Risk of Vendor Blacklisting: Any detected fabrication or false documentation could result in blacklisting and further legal action. This affects the vendor's ability to participate in future tenders.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in the inspection process could lead to penalties due to late dispatch of products.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Changes in material costs due to market conditions can affect pricing, though forecasting typically mitigates this.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Missing the 5% security deposit deadline may lead to disqualification from the tender.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Blacklisting and legal consequences could follow if the vendor is found submitting false documents.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not completing all bid submission steps could result in disqualification, though this is largely preventable by adhering to guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to manage the security deposit properly can lead to disqualification from the tender and a 5% financial loss.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Force majeure clauses offer protection against operational disruptions caused by natural disasters.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "No price changes are allowed during the contract; deviations could result in penalties if the final cost is impacted.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "While natural disasters can affect operations, force majeure clauses usually cover unforeseen events.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor delays may occur due to transit damage, though insurance usually covers these risks.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If delivery is delayed, the buyer has the right to source from alternate suppliers, with the vendor bearing the financial impact.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to obtain timely inspection clearance may delay dispatch and result in penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Errors in submitted documents may cause delays but can be addressed efficiently.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to deliver on time allows the buyer to procure from alternate suppliers at the vendor’s cost, leading to financial losses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Deviations from the agreed price structure during the contract may result in penalties, particularly if they impact the final delivery cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Communication failures in the e-bidding process may lead to rejection, but these problems are typically resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to deliver on time gives the buyer the right to purchase from another source, charging the vendor for the costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Vendors who fail to execute an accepted order may be suspended from future tenders for a specified period.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Incomplete bid submissions can lead to disqualification, though following submission guidelines typically mitigates this risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in inspection clearance may result in penalties due to late product dispatch.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Detected conflicts may cause the bid to be disqualified, affecting long-term vendor relationships.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Missing the PBG submission deadline may result in payment delays or disqualification from the payment process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to follow through on an order after acceptance risks tender suspension until a designated date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bid disqualification may occur from incomplete submissions, but adherence to guidelines helps minimize this risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Small documentation errors can cause delays but are typically resolved when addressed promptly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Though insured, transit risks may lead to minor delays if damage occurs during the shipping process.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "If a conflict of interest is detected, it may result in the rejection of the bid, harming vendor relationships and future chances.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Non-compliance with regulatory standards could lead to penalties and financial losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Incomplete bids may result in disqualification, but following the submission guidelines helps mitigate this risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Delays in securing inspection approval could lead to late dispatch and associated penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Incomplete bid submissions could lead to disqualification, though this is largely mitigated by following the guidelines.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Conflicts of interest may lead to the rejection of a bid, damaging both vendor relationships and future opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Damage during transit, though insured by the supplier, may still lead to minor delivery delays.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Mistakes in documents may result in minor delays, but they can be corrected efficiently if caught early.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Risk of Financial Penalties for Deviation from Accepted Price Structure: No changes to the accepted price structure are allowed during the contract period. Deviations can result in penalties, especially if they affect the final landed cost at the delivery site.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Incomplete bid submissions may result in disqualification, but following the guidelines helps to prevent this.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Late shipments may incur a 0.5% weekly penalty, up to a 5% limit, disrupting project timelines.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Missing delivery deadlines leads to a 0.5% penalty per week, risking up to 5% of the order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Natural disasters can affect operations, but force majeure clauses usually protect against these disruptions.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Not adhering to GST regulations or other legal requirements can result in fines or monetary losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Changes in market conditions impacting material costs may influence pricing, but with the right forecasting, this is manageable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "The contract mandates penalties of 0.5% per week for late deliveries, with a 5% ceiling, affecting project schedules.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Penalties may apply if deviations in the price structure occur, especially if they affect the final landed cost.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failure to submit the security deposit in time can result in tender disqualification, risking the 5% deposit of the total order value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Bids that don't meet the technical criteria may be rejected, causing both financial damage and a blow to reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Failing to submit a PBG as required could result in disqualification from payments or significant delays.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Changes in market conditions affecting material costs can influence pricing but are manageable with forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Natural disasters may disrupt operations, but they are typically covered under force majeure, providing protection against risks.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Minor document errors may cause delays, though they can usually be resolved quickly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Detected conflicts could cause the bid to be thrown out, limiting the vendor’s future business prospects.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Documentation errors may cause delays but are generally manageable if fixed in time.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Transit damage may result in delays, though insurance typically covers these risks.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to meet legal or GST compliance may cause financial penalties or significant losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Digital communication issues during the bidding process may cause bid rejection, but these problems are resolvable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Incomplete bid submissions may lead to disqualification, though the risk is mitigated by following the guidelines closely.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Inspection and Testing Delays: Vendor's delays in obtaining inspection clearance for products could delay the dispatch of goods, leading to potential penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failing to meet GST or legal requirements could incur penalties and financial risks.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not providing the required PBG can lead to payment delays or disqualification from the payment process.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If inspection clearance is delayed, dispatch may be late, leading to financial penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Fluctuations in market conditions can affect material costs, but pricing strategies can be managed with good forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Though transit risk is insured by the supplier, damage during transport may still cause delays.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to meet the agreed delivery date can result in procurement from alternative suppliers, with the vendor covering the extra costs.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Missing the deadline for the security deposit submission could lead to tender exclusion and the forfeiture of 5% of the total value.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Market changes that affect material costs may alter pricing, but these fluctuations can be controlled with accurate forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failure to comply with GST or legal regulations may result in financial penalties or losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Not fulfilling an accepted order can lead to suspension from participating in future tenders for a specific time.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Problems with digital certificate authentication can cause bid rejection, but they are manageable with proper preparation.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Changes to the price structure could incur penalties, particularly if they alter the final cost at the delivery site.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Delays in shipment trigger a 0.5% weekly penalty, maxing out at 5%, and may disrupt key operational targets.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Documentation issues can lead to delays, though they can be mitigated with quick corrections.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Disqualification could occur from incomplete bid submissions, but adherence to guidelines reduces the likelihood.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Market fluctuations affecting material prices may impact pricing strategies, but they are manageable with forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Not submitting the 5% security deposit on time risks disqualification from the tender process.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Force majeure clauses provide protection when natural disasters disrupt operations, minimizing risk from unforeseen events.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Documentation Errors: Minor errors in submitted documents may lead to delays but are typically manageable if addressed promptly.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to follow through on an accepted order can lead to suspension from tender participation until a specified date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Damage in transit, though insured, could lead to slight delays in the delivery schedule.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Not meeting GST or other legal requirements can lead to fines and financial impacts.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Communication problems with the e-bidding platform could result in bid rejection, but these issues are usually resolved easily.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Any change to the accepted price structure could incur penalties, especially if the final cost at delivery is affected.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Market Fluctuations: Changes in market conditions affecting material costs may impact pricing strategies but are generally manageable through proper forecasting.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Payments could be delayed, or the vendor disqualified if the required PBG is not submitted.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Detected conflicts of interest can lead to bid rejection and negatively impact future vendor opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Delays in the inspection process may result in penalties as the dispatch of goods is held up.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Failure to Execute Orders Post-Acceptance: If the vendor accepts an order but fails to execute it or withdraws from the agreement, they could be suspended from future tenders until a specified date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Insurance covers transit risks, but any damage in transport may cause minor delays.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "A missing or invalid PBG could cause payment delays or result in disqualification from receiving payments.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bids that fail to align with technical requirements risk being disqualified, leading to financial setbacks and loss of reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Non-compliance with applicable regulations could result in financial penalties or monetary losses.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Bids not meeting technical standards risk being disqualified, leading to financial loss and harm to reputation.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If inspection clearance is delayed, dispatch will be affected, potentially leading to penalties.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Though insured, damage during transit could cause minor delays in delivery.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Transit risks, while covered by insurance, can cause delays if damage occurs during shipping.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Any detected fabrication may lead to blacklisting and legal action, preventing future tender participation.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "Natural disasters may disrupt operations, but force majeure clauses typically offer protection against such events.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Errors in paperwork may delay the process, though they can be corrected in time.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If a vendor accepts but does not execute an order, they risk suspension from future tenders until a defined date.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "Digital communication failures during e-bidding could lead to bid rejection, but they are generally fixable.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Failing to complete the bid submission may lead to disqualification, though following guidelines mitigates this risk.",
+        "risk_level": "LOW"
+    },
+    {
+        "risk": "Conflicts of Interest: Any detected conflict may result in bid rejection, affecting vendor relationships and future opportunities.",
+        "risk_level": "MEDIUM"
+    },
+    {
+        "risk": "If timely delivery isn’t met, the buyer can source elsewhere, with the vendor covering the additional expenses.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If a vendor fails to execute an accepted order, they face suspension from tenders until a given deadline.",
+        "risk_level": "HIGH"
+    },
+    {
+        "risk": "If the required PBG is not provided, the vendor may face payment delays or be disqualified from payment.",
+        "risk_level": "MEDIUM"
+    }
+]

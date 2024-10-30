@@ -1,0 +1,1442 @@
+[
+    {
+        "text": "Failure to deliver on time can cause penalties, with a potential loss of 5% of the base price due to late shipments.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Problems with digital certificate authentication can result in bid rejection, but they are typically manageable with proper preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Transit risks, though insured, could lead to delivery delays if damage occurs during transport.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Bids that do not conform to technical specifications may be rejected, leading to financial risks and a tarnished reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failing to submit the security deposit on time risks forfeiting the tender and losing 5% of the order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Market variations that influence material costs can impact pricing strategies but can be managed through proper forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Vendors found submitting falsified documents risk blacklisting and exclusion from future tenders.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Late deliveries result in penalties, affecting project schedules, with a 0.5% penalty per week, up to a 5% cap.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to follow all bid submission steps may result in disqualification, but the risk is reduced through proper adherence to guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Providing falsified documentation may result in blacklisting, affecting the vendor's future tender opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "A conflict of interest could result in bid rejection, impacting the vendor’s ability to secure future contracts.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Detection of false documents could lead to blacklisting and legal action, affecting future tender participation.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Bid rejection due to digital certificate issues can occur, but with proper preparation, these problems are typically resolved.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Market volatility affecting material costs may alter pricing, though this can be managed through solid forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Vendors who fail to complete an accepted order may be excluded from tender participation until a specific date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Missed deliveries may lead to the buyer sourcing from other suppliers at the vendor’s expense.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If the vendor fails to provide a valid PBG, payments may be held up or the vendor disqualified.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to provide the security deposit on time could cause disqualification and the forfeiture of 5% of the total order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failures in the digital communication process during e-bidding may cause rejection, though these are generally fixable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Without a valid PBG, payments may be delayed, or the vendor could be disqualified from receiving them.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Small mistakes in documents may lead to delays but are manageable if corrected promptly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If inspection clearance is delayed, the dispatch of goods may be affected, leading to penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Minor documentation errors can result in delays, but prompt corrections typically resolve the issue.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Price deviations during the contract period may result in penalties, especially if they affect the final delivery cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Transit damage, covered by insurance, may result in minor delays if issues arise.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "EProcurement platform communication failures may lead to bid rejection, though they are typically resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "If a conflict of interest is identified, the bid may be rejected, impacting long-term vendor opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Deviations in the price structure may result in penalties, especially if they alter the final cost at the delivery site.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Vendors may be disqualified from the tender if they fail to submit the required 5% security deposit within the stipulated time.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Shipping delays will result in penalties that accumulate weekly at 0.5%, capping at 5%, and hurt operational timelines.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Operational disruptions from natural disasters are covered under force majeure clauses, mitigating the impact of such events.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Vendor delays in getting inspection clearance could lead to late dispatch and penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Delivery beyond the agreed time incurs significant financial penalties, potentially derailing operational plans.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If fabrication or false documentation is found, the vendor risks blacklisting and legal consequences.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Price fluctuations due to market changes may affect material costs, but forecasting can help adjust strategies.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Material price shifts due to market fluctuations may impact pricing strategies, but they can be managed with good forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "If the vendor accepts but does not execute the order, they may be barred from future tenders for a set duration.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If the price structure is altered, penalties may be incurred, especially when affecting the final cost at delivery.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failures in the eProcurement system during bidding can cause rejection, though these issues are typically resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failures in digital communication during e-bidding can result in bid rejection, though they are typically fixable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Inspection delays may cause late dispatch, potentially resulting in financial penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Any conflict of interest discovered could result in the bid being rejected, affecting future business prospects.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Blacklisting may occur if fabrication or false documents are detected, preventing future tender participation.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Authentication problems with digital certificates can cause bids to be rejected, but proper preparation can resolve these issues.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Force majeure clauses cover disruptions caused by natural disasters, offering protection against unforeseen operational issues.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Non-compliance with an accepted order can result in future tender suspension until a particular date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Risk Purchase Clause: If the vendor fails to deliver on time, Balmer Lawrie reserves the right to procure from alternate sources at the vendor's cost, which can lead to significant financial implications.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to obtain inspection clearance on time could delay dispatch and incur penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Operational disruptions due to natural disasters are usually covered by force majeure clauses, offering some protection.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Delayed shipments can result in penalties that escalate up to 5% of the total order value, impacting operations.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to meet delivery schedules may allow the buyer to procure elsewhere, with the vendor responsible for any extra costs.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Mistakes in submitted documents may result in delays, though they are easily manageable with quick fixes.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If a conflict of interest is found, it may lead to the dismissal of the bid, hurting future opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Timely delivery is crucial; failure to deliver as scheduled can attract penalties of up to 5%, hindering operational goals.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If the vendor fails to deliver on time, Balmer Lawrie can procure elsewhere, with the extra expenses passed on to the vendor.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Bids could be rejected if a conflict of interest is found, harming the vendor’s relationship with the buyer.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Transit Risk: Though covered by the supplier, any issues with insurance or damage in transit could cause minor delays​.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Legal or GST non-compliance may result in financial penalties or other monetary consequences.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Market shifts affecting material prices may influence pricing, though this can be controlled through accurate forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Late inspection clearance could delay dispatch and result in penalties for the vendor.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to Deliver on Time: Delays in delivery can lead to significant penalties and affect operational timelines, as outlined in the LD clause, which imposes a penalty of 0.5% per week for delays, capped at 5% of the basic value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Not meeting the security deposit requirements could disqualify the vendor from the tender process, risking 5% of the order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Vendors found providing false documentation risk being blacklisted and may face legal action.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "While natural disasters can halt operations, force majeure clauses usually offer protection against these risks.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Problems with digital communication during the e-bidding process may lead to rejection, but they are generally fixable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Vendor delays in obtaining inspection clearance may result in late dispatch and penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to complete all submission steps could cause bid disqualification, though this risk is mitigated by following the guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Vendor delays in inspection clearance may cause late dispatch and incur penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Penalties may apply if the accepted price structure is altered, especially when affecting the final cost at the delivery site.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Performance Bank Guarantee (PBG) Issues: Failure to provide a valid PBG as required can delay payments or result in disqualification from receiving payments.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Non-compliance with the required technical standards could lead to bid rejection and damage the company's credibility.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Digital certificate authentication issues may lead to bid rejection, though they are fixable with sufficient preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Blacklisting and legal action may follow if any falsified documentation is detected.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Inadequate technical compliance could cause the bid to be rejected, with financial and reputational consequences.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to submit a valid PBG may result in delayed payments or disqualification from receiving payments.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Vendor relationships and future opportunities could be compromised if a conflict of interest results in bid rejection.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Minor paperwork mistakes may result in delays but can be easily corrected if addressed promptly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Operational disruptions due to natural disasters are typically mitigated by force majeure clauses, providing some coverage.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "EProcurement platform issues during the bid process may result in rejection, though these can typically be resolved.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Penalties for delayed deliveries can be as high as 5% of the contract value, affecting the overall project flow.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Digital certificate issues may lead to bid rejection, but they are resolvable with proper planning and preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Disqualification may result from incomplete bids, but this risk is reduced by adhering to submission guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to follow all submission steps may cause bid disqualification, but adherence to guidelines reduces this risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Modifications to the accepted price structure could lead to penalties, particularly if they influence the final landed cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Insurance covers transit risks, but minor delays may occur if damage happens during shipping.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Non-execution of an accepted order can result in future tender suspension until a certain date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Problems with authenticating digital certificates can result in bid rejection, but they are typically resolvable with adequate preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failures in the eProcurement platform could cause bid rejection, though these issues are generally easy to resolve.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Bid rejection due to conflicts of interest could affect ongoing vendor relationships and future tenders.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Modifications to the price structure during the contract may lead to financial penalties, particularly regarding the delivery cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Operations may be impacted by natural disasters, but force majeure clauses provide coverage for such disruptions.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Authentication issues with digital certificates may result in bid rejection, but they can usually be resolved with adequate preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Payment disqualification or delays may occur if the required PBG is not provided.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Adjusting the price structure during the contract period may result in penalties, particularly concerning the final delivery cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Not following GST regulations or other legal requirements may result in financial fines and losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Missing the security deposit deadline can lead to disqualification from the tender and a 5% loss in order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Submitting fabricated documents could result in blacklisting and exclusion from future tenders.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If a vendor pulls out of an accepted order, they risk suspension from future tenders until a specified time.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Disqualification could result from incomplete bid submissions, but following the submission guidelines largely mitigates this risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to comply with technical requirements could lead to bid rejection, affecting both finances and company reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Providing false documents could lead to blacklisting and legal action, hindering future tender participation.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Issues with digital certificate authentication may result in bid rejection, though they can be addressed with sufficient preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Vendors who do not execute accepted orders could face suspension from tenders for a certain time period.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to fulfill the technical requirements may result in bid dismissal, causing financial losses and reputational harm.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Fabrication or false documents may result in blacklisting, affecting future tender participation and legal consequences.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Communication issues during the e-bidding process may lead to bid rejection, but these problems are generally resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Transit risks, while insured by the supplier, may cause delays if damage occurs during shipping.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Force Majeure Events: While natural disasters can disrupt operations, they are generally covered under force majeure clauses, providing some protection against unforeseen circumstances.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Not meeting the outlined technical standards may cause the bid to be dismissed, resulting in financial and reputational loss.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Issues with digital certificates may lead to bid rejection, though they are typically fixable with the right preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Documentation mistakes may cause delays, but they are generally fixable if acted upon swiftly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to submit the required PBG can delay payments or cause the vendor to be disqualified from payment.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Disruptions caused by natural disasters are typically covered under force majeure clauses, offering protection for operations.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "If the delivery schedule is not adhered to, Balmer Lawrie reserves the right to source from others at the vendor's cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If the security deposit (5%) is not submitted in time, vendors risk being disqualified from the tender process.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Not providing a valid PBG could lead to payment delays or disqualification from receiving payments.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Withdrawal from an accepted order risks future tender suspension for a predetermined period.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Conflicts of interest detected during the bid evaluation process could lead to rejection, affecting future business.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to meet technical specifications may result in bid rejection, causing potential financial losses and harming reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Communication Issues with eProcurement Platform: Any failure in digital communications during the e-bidding process (e.g., non-authentication of the digital certificate) could result in bid rejection, though this is generally resolvable​.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Technical non-compliance could result in the bid being rejected, with associated financial penalties and reputational damage.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Delays in security deposit submission may disqualify the vendor and result in the loss of 5% of the contract value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Non-compliance with legal or GST regulations can lead to fines and potential financial losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Minor errors in documentation could lead to delays but are manageable with timely corrections.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Authentication issues with digital certificates may cause bid rejection, but with sufficient preparation, they can be resolved.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "If the vendor misses the delivery deadline, the buyer can source from elsewhere at the vendor's expense, incurring additional costs.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to adhere to GST or legal regulations may result in financial penalties or losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Delays in delivery give Balmer Lawrie the right to source from other suppliers, with additional costs borne by the vendor.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Non-compliance with regulations may cause financial penalties and other financial consequences.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Disqualification may occur due to incomplete bid submissions, but the risk is mitigated by following submission guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Digital communication problems during bidding may lead to rejection, though they are usually resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "No changes to the accepted price are allowed, and deviations could lead to penalties if the final cost is impacted.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Delays in the delivery timeline could lead to penalties, with financial losses of up to 5% of the base price.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Not providing the security deposit within the timeframe may result in exclusion from the tender and a 5% penalty.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Delays give Balmer Lawrie the right to make alternative purchases, charging the vendor for any additional costs.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to execute an accepted order could result in exclusion from future tenders until a given date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Lack of compliance with technical specifications can lead to bid rejection, impacting finances and reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Non-adherence to technical standards may result in the bid being turned down, risking financial loss and reputational harm.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Without the proper PBG, payment may be delayed or the vendor may be disqualified from receiving payment.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Security Deposit Forfeiture: The requirement for a security deposit (5% of total order value) poses a risk if not managed correctly, as failure to submit this deposit on time can lead to disqualification from the tender.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Bids failing to meet technical specifications may be dismissed, leading to monetary loss and damage to the vendor’s standing.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If false documentation is identified, the vendor could face blacklisting and legal consequences, affecting tenders.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If a vendor withdraws from an accepted order, they may be suspended from future tenders for a set period.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Shifts in material costs caused by market changes may impact pricing strategies, but these are manageable with effective forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "An invalid PBG can delay payments or cause the vendor to be disqualified from receiving them.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Not complying with GST regulations or legal requirements could cause financial losses and penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to comply with legal requirements, including GST, can lead to fines or financial losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "False documents may result in blacklisting and potential legal consequences, affecting tender opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Operational delays due to late delivery could cost the vendor up to 5% of the basic value in penalties.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Each week of delay will result in a 0.5% penalty, capped at 5%, impacting both finances and project deadlines.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If the security deposit is not provided as required, vendors may face tender disqualification and lose 5% of the order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Any changes to the price structure during the contract could lead to penalties, especially if it influences the final cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Any identified conflict of interest may result in the disqualification of the bid, with future opportunities compromised.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Insurance covers transit risks, but any damage during shipping could lead to minor delays.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Regulatory Compliance Issues: Non-compliance with GST regulations or other legal requirements can incur penalties or financial losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Issues with damage in transit, though insured, could cause slight delays in delivery.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Natural disasters can disrupt operations, but force majeure clauses generally protect against such unforeseen events.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Any delay in delivery will incur a penalty of 0.5% per week, with a maximum of 5%, impacting the overall project timeline.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Missed deadlines can lead to Balmer Lawrie purchasing from other suppliers, with the vendor covering the additional costs.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to submit a valid PBG could lead to disqualification from payments or significant delays in payment.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Authentication issues with digital certificates may cause bid rejection, though they can usually be fixed with proper preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Authentication problems with digital certificates may lead to bid rejection, but they are usually fixable with the right preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Detected fabrication or false documentation may result in blacklisting and further legal action.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Delays in product inspection may result in late dispatch and potential penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Missed deadlines allow the buyer to make alternate purchases at the vendor’s expense, risking financial losses.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Fluctuations in market prices may impact material costs and pricing strategies, though forecasting can mitigate this.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Incomplete Bid Submission: Failure to complete all required steps for bid submission may result in disqualification; however, this risk is largely mitigated through adherence to submission guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Small errors in the submitted paperwork may lead to delays but can be resolved if addressed quickly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Bid rejection may occur due to digital certificate authentication issues, but they are generally resolvable with good preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Delayed shipments may lead to Balmer Lawrie procuring from alternate vendors at the original vendor’s cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Issues with the eProcurement platform may result in bid rejection, though they can usually be resolved.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Digital Certificate Authentication Issues: Problems with digital certificate authentication may lead to bid rejection, but these issues are typically resolvable with proper preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Bid rejection can occur due to digital certificate authentication problems, though these issues can be resolved with adequate preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "While natural disasters can interrupt operations, force majeure clauses generally cover such disruptions, minimizing risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Late submission of the security deposit may result in disqualification and the forfeiture of 5% of the contract value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Changes in the market impacting material costs may require adjustments to pricing strategies, but these are usually manageable with proper forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Not adhering to the technical guidelines may result in bid rejection, financial loss, and negative impact on reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Non-authentication issues during e-bidding may result in bid rejection, but these are generally resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Deviations from the agreed-upon price structure could result in penalties, particularly if they alter the final delivery cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "A conflict of interest may lead to the disqualification of the bid, damaging future opportunities with the buyer.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Non-compliance with Technical Specifications: Bids that do not meet the specified technical requirements may be rejected, leading to financial losses and reputational damage.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Non-compliance with GST or other legal obligations can incur penalties and financial repercussions.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Errors in the submitted documents may delay progress but can be managed with timely actions.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Material cost fluctuations may impact pricing, but proper forecasting can help mitigate these effects.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Risk of Vendor Blacklisting: Any detected fabrication or false documentation could result in blacklisting and further legal action. This affects the vendor's ability to participate in future tenders.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Delays in the inspection process could lead to penalties due to late dispatch of products.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Changes in material costs due to market conditions can affect pricing, though forecasting typically mitigates this.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Missing the 5% security deposit deadline may lead to disqualification from the tender.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Blacklisting and legal consequences could follow if the vendor is found submitting false documents.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Not completing all bid submission steps could result in disqualification, though this is largely preventable by adhering to guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to manage the security deposit properly can lead to disqualification from the tender and a 5% financial loss.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Force majeure clauses offer protection against operational disruptions caused by natural disasters.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "No price changes are allowed during the contract; deviations could result in penalties if the final cost is impacted.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "While natural disasters can affect operations, force majeure clauses usually cover unforeseen events.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Minor delays may occur due to transit damage, though insurance usually covers these risks.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "If delivery is delayed, the buyer has the right to source from alternate suppliers, with the vendor bearing the financial impact.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to obtain timely inspection clearance may delay dispatch and result in penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Errors in submitted documents may cause delays but can be addressed efficiently.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to deliver on time allows the buyer to procure from alternate suppliers at the vendor’s cost, leading to financial losses.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Deviations from the agreed price structure during the contract may result in penalties, particularly if they impact the final delivery cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Communication failures in the e-bidding process may lead to rejection, but these problems are typically resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to deliver on time gives the buyer the right to purchase from another source, charging the vendor for the costs.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Vendors who fail to execute an accepted order may be suspended from future tenders for a specified period.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Incomplete bid submissions can lead to disqualification, though following submission guidelines typically mitigates this risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Delays in inspection clearance may result in penalties due to late product dispatch.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Detected conflicts may cause the bid to be disqualified, affecting long-term vendor relationships.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Missing the PBG submission deadline may result in payment delays or disqualification from the payment process.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to follow through on an order after acceptance risks tender suspension until a designated date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Bid disqualification may occur from incomplete submissions, but adherence to guidelines helps minimize this risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Small documentation errors can cause delays but are typically resolved when addressed promptly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Though insured, transit risks may lead to minor delays if damage occurs during the shipping process.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "If a conflict of interest is detected, it may result in the rejection of the bid, harming vendor relationships and future chances.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Non-compliance with regulatory standards could lead to penalties and financial losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Incomplete bids may result in disqualification, but following the submission guidelines helps mitigate this risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Delays in securing inspection approval could lead to late dispatch and associated penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Incomplete bid submissions could lead to disqualification, though this is largely mitigated by following the guidelines.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Conflicts of interest may lead to the rejection of a bid, damaging both vendor relationships and future opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Damage during transit, though insured by the supplier, may still lead to minor delivery delays.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Mistakes in documents may result in minor delays, but they can be corrected efficiently if caught early.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Risk of Financial Penalties for Deviation from Accepted Price Structure: No changes to the accepted price structure are allowed during the contract period. Deviations can result in penalties, especially if they affect the final landed cost at the delivery site.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Incomplete bid submissions may result in disqualification, but following the guidelines helps to prevent this.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Late shipments may incur a 0.5% weekly penalty, up to a 5% limit, disrupting project timelines.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Missing delivery deadlines leads to a 0.5% penalty per week, risking up to 5% of the order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Natural disasters can affect operations, but force majeure clauses usually protect against these disruptions.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Not adhering to GST regulations or other legal requirements can result in fines or monetary losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Changes in market conditions impacting material costs may influence pricing, but with the right forecasting, this is manageable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "The contract mandates penalties of 0.5% per week for late deliveries, with a 5% ceiling, affecting project schedules.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Penalties may apply if deviations in the price structure occur, especially if they affect the final landed cost.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failure to submit the security deposit in time can result in tender disqualification, risking the 5% deposit of the total order value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Bids that don't meet the technical criteria may be rejected, causing both financial damage and a blow to reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Failing to submit a PBG as required could result in disqualification from payments or significant delays.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Changes in market conditions affecting material costs can influence pricing but are manageable with forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Natural disasters may disrupt operations, but they are typically covered under force majeure, providing protection against risks.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Minor document errors may cause delays, though they can usually be resolved quickly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Detected conflicts could cause the bid to be thrown out, limiting the vendor’s future business prospects.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Documentation errors may cause delays but are generally manageable if fixed in time.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Transit damage may result in delays, though insurance typically covers these risks.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to meet legal or GST compliance may cause financial penalties or significant losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Digital communication issues during the bidding process may cause bid rejection, but these problems are resolvable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Incomplete bid submissions may lead to disqualification, though the risk is mitigated by following the guidelines closely.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Inspection and Testing Delays: Vendor's delays in obtaining inspection clearance for products could delay the dispatch of goods, leading to potential penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failing to meet GST or legal requirements could incur penalties and financial risks.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Not providing the required PBG can lead to payment delays or disqualification from the payment process.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If inspection clearance is delayed, dispatch may be late, leading to financial penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Fluctuations in market conditions can affect material costs, but pricing strategies can be managed with good forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Though transit risk is insured by the supplier, damage during transport may still cause delays.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to meet the agreed delivery date can result in procurement from alternative suppliers, with the vendor covering the extra costs.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Missing the deadline for the security deposit submission could lead to tender exclusion and the forfeiture of 5% of the total value.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Market changes that affect material costs may alter pricing, but these fluctuations can be controlled with accurate forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failure to comply with GST or legal regulations may result in financial penalties or losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Not fulfilling an accepted order can lead to suspension from participating in future tenders for a specific time.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Problems with digital certificate authentication can cause bid rejection, but they are manageable with proper preparation.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Changes to the price structure could incur penalties, particularly if they alter the final cost at the delivery site.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Delays in shipment trigger a 0.5% weekly penalty, maxing out at 5%, and may disrupt key operational targets.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Documentation issues can lead to delays, though they can be mitigated with quick corrections.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Disqualification could occur from incomplete bid submissions, but adherence to guidelines reduces the likelihood.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Market fluctuations affecting material prices may impact pricing strategies, but they are manageable with forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Not submitting the 5% security deposit on time risks disqualification from the tender process.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Force majeure clauses provide protection when natural disasters disrupt operations, minimizing risk from unforeseen events.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Documentation Errors: Minor errors in submitted documents may lead to delays but are typically manageable if addressed promptly.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to follow through on an accepted order can lead to suspension from tender participation until a specified date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Damage in transit, though insured, could lead to slight delays in the delivery schedule.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Not meeting GST or other legal requirements can lead to fines and financial impacts.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Communication problems with the e-bidding platform could result in bid rejection, but these issues are usually resolved easily.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Any change to the accepted price structure could incur penalties, especially if the final cost at delivery is affected.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Market Fluctuations: Changes in market conditions affecting material costs may impact pricing strategies but are generally manageable through proper forecasting.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Payments could be delayed, or the vendor disqualified if the required PBG is not submitted.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Detected conflicts of interest can lead to bid rejection and negatively impact future vendor opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Delays in the inspection process may result in penalties as the dispatch of goods is held up.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Failure to Execute Orders Post-Acceptance: If the vendor accepts an order but fails to execute it or withdraws from the agreement, they could be suspended from future tenders until a specified date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Insurance covers transit risks, but any damage in transport may cause minor delays.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "A missing or invalid PBG could cause payment delays or result in disqualification from receiving payments.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Bids that fail to align with technical requirements risk being disqualified, leading to financial setbacks and loss of reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Non-compliance with applicable regulations could result in financial penalties or monetary losses.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Bids not meeting technical standards risk being disqualified, leading to financial loss and harm to reputation.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If inspection clearance is delayed, dispatch will be affected, potentially leading to penalties.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Though insured, damage during transit could cause minor delays in delivery.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Transit risks, while covered by insurance, can cause delays if damage occurs during shipping.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Any detected fabrication may lead to blacklisting and legal action, preventing future tender participation.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "Natural disasters may disrupt operations, but force majeure clauses typically offer protection against such events.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Errors in paperwork may delay the process, though they can be corrected in time.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If a vendor accepts but does not execute an order, they risk suspension from future tenders until a defined date.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "Digital communication failures during e-bidding could lead to bid rejection, but they are generally fixable.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Failing to complete the bid submission may lead to disqualification, though following guidelines mitigates this risk.",
+        "risk_level": "LOW",
+        "risk_score": 1
+    },
+    {
+        "text": "Conflicts of Interest: Any detected conflict may result in bid rejection, affecting vendor relationships and future opportunities.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    },
+    {
+        "text": "If timely delivery isn’t met, the buyer can source elsewhere, with the vendor covering the additional expenses.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If a vendor fails to execute an accepted order, they face suspension from tenders until a given deadline.",
+        "risk_level": "HIGH",
+        "risk_score": 3
+    },
+    {
+        "text": "If the required PBG is not provided, the vendor may face payment delays or be disqualified from payment.",
+        "risk_level": "MEDIUM",
+        "risk_score": 2
+    }
+]

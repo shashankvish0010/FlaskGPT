@@ -23,11 +23,17 @@ interface Contextvalue {
   sideNav: boolean;
   showPdf: boolean;
   setSideNav: any;
+  risk: RiskType;
 }
 
 interface ChatType {
   question: string;
   file: File | null;
+}
+
+interface RiskType {
+  statement: string;
+  risk_level: string;
 }
 
 interface queryType {
@@ -46,6 +52,12 @@ export const ChatProvider = (props: any) => {
     question: "",
     file: null,
   });
+  const [risk, setRisk] = useState<RiskType[]>([
+    {
+      statement: "",
+      risk_level: "",
+    },
+  ]);
   const [prompt, setPrompt] = useState<any>({
     prompt_name: "",
     promptq: "",
@@ -174,7 +186,8 @@ export const ChatProvider = (props: any) => {
       if (response) {
         const data = await response.json();
         if (data.success == true) {
-          setchatArray(data.text);
+          setRisk(data.sentences);
+          console.log(data);
         } else {
           setMessage(data.message);
         }
@@ -206,6 +219,7 @@ export const ChatProvider = (props: any) => {
     handleSubmit,
     handleFileSelect,
     togglePdfView,
+    risk,
   };
 
   return (
